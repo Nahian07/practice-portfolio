@@ -228,10 +228,6 @@ footer img{
 
 /* responsive for small devices */
 
-.hide{
-    display: none;
-}
-
 @media screen and (max-width: 576px) {
 
     .about-items, nav{
